@@ -6,6 +6,6 @@ public class AmazonPage {
     //html for search button
 
     //html for deals page
-    long fdg =78;
-    //html for cart page
+    
+    //team members linee
 }
