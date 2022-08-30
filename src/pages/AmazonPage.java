@@ -7,4 +7,5 @@ public class AmazonPage {
 
     //html for deals page
     long fdg =78;
+    //html for cart page
 }
