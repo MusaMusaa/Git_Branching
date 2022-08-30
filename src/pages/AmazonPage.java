@@ -7,5 +7,5 @@ public class AmazonPage {
 
     //html for deals page
     
-    //team members linee
+    //team members line
 }
